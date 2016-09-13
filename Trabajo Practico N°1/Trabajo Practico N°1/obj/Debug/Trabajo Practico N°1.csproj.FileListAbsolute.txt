@@ -1,0 +1,9 @@
+G:\Laboratorio 2\Trabajo Practico N°1\Trabajo Practico N°1\bin\Debug\Trabajo Practico N°1.exe.config
+G:\Laboratorio 2\Trabajo Practico N°1\Trabajo Practico N°1\bin\Debug\Trabajo Practico N°1.exe
+G:\Laboratorio 2\Trabajo Practico N°1\Trabajo Practico N°1\bin\Debug\Trabajo Practico N°1.pdb
+G:\Laboratorio 2\Trabajo Practico N°1\Trabajo Practico N°1\obj\Debug\Trabajo Practico N°1.csprojResolveAssemblyReference.cache
+G:\Laboratorio 2\Trabajo Practico N°1\Trabajo Practico N°1\obj\Debug\Trabajo_Practico_N_1.Form1.resources
+G:\Laboratorio 2\Trabajo Practico N°1\Trabajo Practico N°1\obj\Debug\Trabajo_Practico_N_1.Properties.Resources.resources
+G:\Laboratorio 2\Trabajo Practico N°1\Trabajo Practico N°1\obj\Debug\Trabajo Practico N°1.csproj.GenerateResource.Cache
+G:\Laboratorio 2\Trabajo Practico N°1\Trabajo Practico N°1\obj\Debug\Trabajo Practico N°1.exe
+G:\Laboratorio 2\Trabajo Practico N°1\Trabajo Practico N°1\obj\Debug\Trabajo Practico N°1.pdb
