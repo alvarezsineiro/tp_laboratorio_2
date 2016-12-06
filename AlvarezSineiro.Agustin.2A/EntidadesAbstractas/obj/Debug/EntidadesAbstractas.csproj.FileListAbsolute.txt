@@ -1,0 +1,7 @@
+F:\Laboratorio 2\AlvarezSineiro.Agustin.2A\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+F:\Laboratorio 2\AlvarezSineiro.Agustin.2A\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+F:\Laboratorio 2\AlvarezSineiro.Agustin.2A\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+F:\Laboratorio 2\AlvarezSineiro.Agustin.2A\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+F:\Laboratorio 2\AlvarezSineiro.Agustin.2A\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+F:\Laboratorio 2\AlvarezSineiro.Agustin.2A\EntidadesAbstractas\bin\Debug\Excepciones.dll
+F:\Laboratorio 2\AlvarezSineiro.Agustin.2A\EntidadesAbstractas\bin\Debug\Excepciones.pdb
